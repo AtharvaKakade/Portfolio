@@ -104,7 +104,7 @@ function App() {
                 where I refine my skills in Java development, Spring Boot, and frontend technologies like React and Tailwind CSS.
               </p>
               <p className="text-lg mb-6 text-gray-300">
-                With expertise in Spring Boot, Hibernate, REST APIs, and web development, I strive to bridge the gap between backend efficiency and frontend aesthetics.
+                With fluency in Spring Boot, Hibernate, REST APIs, and web development, I strive to bridge the gap between backend efficiency and frontend aesthetics.
                 My focus is on crafting seamless digital experiences while continuously improving my problem-solving skills in data structures and algorithms (DSA).
               </p>
               <p className="text-lg mb-6 text-gray-300">
@@ -292,7 +292,7 @@ function App() {
                   <ul className="space-y-2 text-gray-300">
                     <li className="transition-colors duration-200 hover:text-white">Git & GitHub</li>
                     <li className="transition-colors duration-200 hover:text-white">Docker</li>
-                    <li className="transition-colors duration-200 hover:text-white">CI/CD</li>
+                    {/* <li className="transition-colors duration-200 hover:text-white">CI/CD</li> */}
                   </ul>
                 </div>
 
